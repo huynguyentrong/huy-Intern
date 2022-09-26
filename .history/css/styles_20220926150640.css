@@ -812,7 +812,7 @@ input[type="checkbox"] {
 /*    04. Header     */
 /*********************/
 .header {
-  background-color: #ff9051;
+  background-color: #fff;
 }
 
 .header .header-content {
@@ -827,14 +827,14 @@ input[type="checkbox"] {
 
 .header h1 {
   margin-bottom: 1rem;
-  color: #333;
+  color: #ff9051;
   font-size: 2.5rem;
   line-height: 3rem;
 }
 
 .header .p-large {
   margin-bottom: 2rem;
-  color: #333;
+  color: #ff9051;
 }
 
 .header .btn-solid-lg {
