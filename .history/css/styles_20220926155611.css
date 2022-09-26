@@ -2007,10 +2007,6 @@ a:hover.back-to-top {
   }
   .header .image-container .img-wrapper {
     width: 630px;
-    animation-name: example;
-    animation-duration: 3s;
-    animation-delay: 2s;
-    animation-fill-mode: backwards;
   }
   .header-frame {
     height: 9.375rem;

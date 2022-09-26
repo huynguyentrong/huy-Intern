@@ -1997,14 +1997,7 @@ a:hover.back-to-top {
     margin-top: 1rem;
     margin-left: 1.5rem;
   }
-  @keyframes example {
-    from {
-      top: 0px;
-    }
-    to {
-      top: 200px;
-    }
-  }
+
   .header .image-container .img-wrapper {
     width: 630px;
     animation-name: example;
@@ -2012,6 +2005,7 @@ a:hover.back-to-top {
     animation-delay: 2s;
     animation-fill-mode: backwards;
   }
+
   .header-frame {
     height: 9.375rem;
   }
